@@ -1,6 +1,3 @@
-<img src="icon.png" align="right" />
-
-
 # DESCARGAS
 
 - [Visual Studio] [https://visualstudio.microsoft.com/es/vs/older-downloads/] - Visual studio recomendado version 2017
